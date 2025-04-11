@@ -16,7 +16,7 @@ const aboutRef = ref(null);
 const educationRef = ref(null);
 const projectsRef = ref(null);
 const stackRef = ref(null);
-const text = "@muhdnajb's portfolio website.";
+const text = "@muhdnajb's portfolio.";
 const displayedText = ref("");
 const currentTime = ref(moment().format("Do MMMM YYYY, h:mm:ss a"));
 
@@ -168,6 +168,10 @@ onMounted(() => {
         v-if="displayedText"
       >
         {{ displayedText }}
+      </div>
+      <div>
+        a front-end developer, turning concepts into <br />
+        seamless, user-friendly digital experiences.
       </div>
     </div>
   </div>
