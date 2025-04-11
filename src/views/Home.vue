@@ -156,22 +156,15 @@ onMounted(() => {
     </nav>
 
     <div
-      class="absolute top-1/4 left-3/10 transform -translate-x-1/2 -translate-y-1/2 text-center w-full px-4"
+      class="absolute top-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center w-full px-4 max-w-screen-sm mx-auto"
     >
-      <div
-        class="text-gray-800 text-2xl sm:text-3xl md:text-3xl lg:text-3xl xl:text-3xl font-bold"
-      >
-        welcome,
-      </div>
-      <div
-        class="text-gray-600 text-3xl sm:text-4xl md:text-3xl lg:text-3xl xl:text-3xl font-bold"
-        v-if="displayedText"
-      >
+      <div class="text-gray-800 text-2xl sm:text-3xl font-bold">welcome,</div>
+      <div class="text-gray-600 text-2xl sm:text-3xl font-bold" v-if="displayedText">
         {{ displayedText }}
       </div>
-      <div>
-        a front-end developer, turning concepts into <br />
-        seamless, user-friendly digital experiences.
+      <div class="text-gray-700 text-base sm:text-lg leading-tight px-2 sm:px-0">
+        a front-end developer, turning concepts into seamless, user-friendly digital
+        experiences.
       </div>
     </div>
   </div>
