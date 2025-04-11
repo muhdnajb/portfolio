@@ -20,7 +20,7 @@ const imgList = {
       ],
       period: "2023-2025",
       imgcaption:
-        "Some highlight with end-user throughout the project journey (2023-2025)",
+        "Some highlights with end-users throughout the project journey (2023–2025).",
       description: `
       The Department of Higher Education (JPT) is responsible for enhancing the global visibility of Malaysia's academic publications. To support this effort, an integrated system with new features, known as the Sistem Repositori Penerbitan Ilmiah Malaysia (MySitasi), is being developed. This system will replace three existing separate platforms; MyJurnal, MyCite, and MyJMS, aligning with the latest technological advancements to improve the delivery of products and services. <br/><br/> MySitasi is a unified platform for Malaysia's academic publishing, integrating key services such as user management, journal management, journal evaluation and performance tracking, reporting and analytics, subscription management, and both internal and external system integration. Equipped with advanced ICT features, it ensures seamless operations in citation management while enhancing the visibility of Malaysian scholarly publications on the international stage. <br/><br/> The target users include the Ministry of Higher Education (KPT), the Department of Higher Education (JPT), Higher Education Institutions (IPT), public agencies, private agencies, as well as professional bodies and associations. This diverse user base ensures comprehensive engagement across academic and research communities.
       `,
