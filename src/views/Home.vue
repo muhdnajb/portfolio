@@ -4,6 +4,7 @@ import About from "./About.vue";
 import Education from "./Education.vue";
 import Projects from "./Projects.vue";
 import Stack from "./Stack.vue";
+import Contact from "./Contact.vue";
 import moment from "moment";
 import { useRoute } from "vue-router";
 
@@ -182,6 +183,9 @@ onMounted(() => {
     </div>
     <div ref="stackRef">
       <Stack />
+    </div>
+    <div ref="contactRef">
+      <Contact />
     </div>
   </div>
 </template>

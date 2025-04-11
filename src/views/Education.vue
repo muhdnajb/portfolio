@@ -10,13 +10,13 @@ const timelineItems = [
     year: "2020-2022, Universiti Teknologi MARA, Kampus Jasin",
     label: "Bachelor of Computer Science (Hons.)",
     description:
-      "Bachelor's Degree in Computer Science (CGPA 3.45). Served as class representative, developing strong leadership and teamwork skills. Coursework focused on software engineering, artificial intelligence, statistics, business data analytics, and data mining.",
+      "Bachelor's Degree in Computer Science. Coursework focused on software engineering, artificial intelligence, statistics, business data analytics, and data mining. Served as class representative, developing strong leadership and teamwork skills.",
   },
   {
     year: "2017-2020, Universiti Teknologi MARA, Kampus Jasin",
     label: "Diploma in Computer Science",
     description:
-      "Diploma in Computer Science (CGPA 3.20). Built a strong foundation in programming, databases, and system analysis. Developed problem-solving skills through coursework and hands-on projects. Served as class representative, enhancing leadership and collaboration.",
+      "Diploma in Computer Science. Built a strong foundation in programming, databases, and system analysis. Developed problem-solving skills through coursework and hands-on projects. Served as class representative, enhancing leadership and collaboration.",
   },
 ];
 </script>

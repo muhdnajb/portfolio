@@ -54,7 +54,7 @@ const list = {
       // img: `img/code3.svg`,
     },
     {
-      label: "Software Testing / Quality Assurance",
+      label: "Software Testing / QA",
       // img: `img/selenium.svg`,
     },
     {
@@ -91,7 +91,9 @@ const list = {
       class="relative flex flex-col justify-center items-center py-10 md:py-10 lg:px-15"
     >
       <div class="my-0">
-        <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-white text-center">
+        <div
+          class="text-2xl sm:text-3xl md:text-4xl font-bold text-black sm:text-white text-center"
+        >
           tech stack
         </div>
         <div class="font-extralight text-black/90 text-center opacity-90 mt-1.5">
@@ -108,9 +110,11 @@ const list = {
         />
       </div>
       <div class="my-0 pt-15">
-        <p class="text-2xl sm:text-3xl md:text-4xl font-bold text-white text-center">
+        <div
+          class="text-2xl sm:text-3xl md:text-4xl font-bold text-black sm:text-white text-center"
+        >
           interest
-        </p>
+        </div>
         <p class="font-extralight text-black/90 text-center opacity-90 mt-1.5">
           fields of technology that I’m interested in exploring and improving
         </p>
