@@ -16,7 +16,7 @@ const aboutRef = ref(null);
 const educationRef = ref(null);
 const projectsRef = ref(null);
 const stackRef = ref(null);
-const text = "@muhdnajb's website.";
+const text = "@muhdnajb's portfolio website.";
 const displayedText = ref("");
 const currentTime = ref(moment().format("Do MMMM YYYY, h:mm:ss a"));
 
