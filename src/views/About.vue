@@ -22,11 +22,11 @@ import { ref } from "vue";
         <p class="text-base sm:text-lg leading-relaxed text-justify mt-4">
           I'm <span class="font-normal">Muhd Najib</span>, a front-end system developer
           with a background in computer science, passionate about building clean and
-          efficient applications. I specialize in Vue.js, Quasar, Tailwind CSS, and
-          JavaScript. I enjoy solving problems, learning new technologies, and optimizing
+          efficient applications. Familiar with Vue.js, Quasar, JavaScript and Tailwind
+          CSS. I enjoy solving problems, learning new technologies, and optimizing
           performance. Beyond coding, I love doing sports like running, badminton, and
           futsal. Staying active helps me push my limits and stay motivated. <br /><br />
-          I enjoy collaborating with teams to create impactful solutions and adapt well to
+          I value collaborating with teams to create impactful solutions and adapt well to
           dynamic environments. Continuously improving my skills, I explore new
           technologies and best practices to enhance software development and create
           efficient solutions. My objective is to build seamless, user-friendly

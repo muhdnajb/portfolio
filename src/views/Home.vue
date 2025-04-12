@@ -158,13 +158,16 @@ onMounted(() => {
     <div
       class="absolute top-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center w-full px-4 max-w-screen-sm mx-auto"
     >
-      <div class="text-gray-800 text-2xl sm:text-3xl font-bold">welcome,</div>
-      <div class="text-gray-600 text-2xl sm:text-3xl font-bold" v-if="displayedText">
-        {{ displayedText }}
+      <div class="text-gray-800 text-2xl sm:text-3xl font-bold">
+        welcome,
+        <span>
+          {{ displayedText }}
+        </span>
       </div>
+
       <div class="text-gray-700 text-base sm:text-lg leading-tight px-2 sm:px-0">
-        a front-end developer, turning concepts into seamless, user-friendly digital
-        experiences.
+        a front-end developer, turning concepts into seamless, user-friendly <br />
+        digital experiences.
       </div>
     </div>
   </div>
