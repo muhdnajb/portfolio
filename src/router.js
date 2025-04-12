@@ -2,7 +2,6 @@ import { createRouter, createWebHistory } from "vue-router";
 import MainLayout from "./layouts/MainLayout.vue";
 import Home from "./views/Home.vue";
 import ProjectDetails from "./views/ProjectDetails.vue";
-import Test from "./views/Test.vue";
 
 const routes = [
   {
@@ -10,7 +9,6 @@ const routes = [
     component: MainLayout,
     children: [
       { path: "", component: Home },
-      { path: "test", component: Test },
       {
         path: "project/:path",
         name: "ProjectDetails",
