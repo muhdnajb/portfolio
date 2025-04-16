@@ -23,7 +23,7 @@ const cardList = [
         get in touch <br />
       </p>
       <p class="text-sm md:text-base text-gray-600 text-center font-light">
-        feel free to reach out to me via both platforms
+        feel free to reach out to me through any of the available platforms
       </p>
     </div>
     <div class="col-span-1 md:col-span-2 p-8">
