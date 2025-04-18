@@ -18,7 +18,7 @@ const imgList = {
         "/img/mysitasi/mysitasi-4.jpg",
         "/img/mysitasi/mysitasi-5.jpg",
       ],
-      period: "2023-Present",
+      period: "2023-2025",
       imgcaption:
         "Some highlights with end-users throughout the project journey (2023–2025).",
       description: `
