@@ -8,7 +8,7 @@ const projects = [
     title: "MySITASI",
     institution: "Kementerian Pendidikan Tinggi",
     img: `/img/kpt.png`,
-    period: "2023-Present",
+    period: "2023-2025",
   },
   {
     id: 2,
