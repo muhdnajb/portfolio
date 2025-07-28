@@ -17,7 +17,7 @@ const cardList = [
 ];
 </script>
 <template>
-  <div class="grid grid-cols-1 md:grid-cols-3 bg-gray-500/25 p-10">
+  <div class="grid grid-cols-1 md:grid-cols-3 bg-gray-300 md:bg-gray-500/25 p-10">
     <div class="col-span-1 md:col-span-1 p-8 flex flex-col items-center justify-center">
       <p class="text-2xl sm:text-3xl md:text-4xl font-bold text-black text-center">
         get in touch <br />

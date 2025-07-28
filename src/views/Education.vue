@@ -2,7 +2,7 @@
 const timelineItems = [
   {
     year: "2023-2025, Omesti Group, Kuala Lumpur",
-    label: "Software Developer (Front-End)",
+    label: "Software Engineer (Front-End)",
     description:
       "Developed system applications and portal for educational institutions, contributing to a digital learning platform for the Ministry of Higher Education Malaysia. Focused on delivering high-quality software solutions to enhance accessibility and user experience in online education.",
   },

@@ -23,7 +23,7 @@ const projects = [
 
 <template>
   <div
-    class="min-h-screen relative flex items-center justify-center bg-gradient-to-t from-gray-100 via-gray-100 to-gray-300"
+    class="min-h-screen relative flex items-center justify-center bg-gray-100 md:bg-gradient-to-t md:from-gray-100 md:via-gray-100 md:to-gray-300"
   >
     <!-- <video autoplay muted loop class="absolute inset-0 w-full h-full object-cover">
       <source src="../assets/typing.mp4" type="video/mp4" />
@@ -35,7 +35,16 @@ const projects = [
     /> -->
     <div class="relative text-center text-white p-4 sm:p-8 lg:p-12">
       <div class="my-0">
-        <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold pt-4 md:pt-0">projects</h1>
+        <h1
+          class="text-2xl sm:text-3xl md:text-4xl font-bold pt-4 md:pt-0 text-black sm:text-white text-center"
+        >
+          projects
+        </h1>
+        <!-- <div
+          class="text-2xl sm:text-3xl md:text-4xl font-bold text-black sm:text-white text-center"
+        >
+          tech stack
+        </div> -->
         <p class="text-black pt-2 text-sm sm:text-base md:text-lg">
           collection of industry projects highlighting my work and contributions
         </p>

@@ -71,7 +71,7 @@ const list = {
 
 <template>
   <div
-    class="relative flex items-center justify-center min-h-screen bg-gradient-to-b from-gray-100 to-gray-400"
+    class="relative flex items-center justify-center min-h-screen bg-gray-200 md:bg-gradient-to-b md:from-gray-100 md:to-gray-400"
   >
     <!-- <video
       autoplay

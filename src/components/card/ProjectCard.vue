@@ -98,7 +98,12 @@ onMounted(() => {});
         @click.prevent="goDetails(props)"
         class="cursor-pointer inline-flex items-center px-3 py-1.5 text-sm font-medium text-black border border-blue-500 rounded-sm focus:outline-none dark:border-blue-500 dark:text-blue-500"
       >
-        <p class="px-2 text-xs">Read more</p>
+        <!-- <p class="px-2 text-xs bg-blue-500 md:bg-transparent">Read more</p> -->
+        <p
+          class="text-xs bg-blue-500 text-white py-2 px-3 rounded-sm md:bg-transparent md:text-black md:py-0 md:px-2 md:rounded-none dark:md:text-blue-500"
+        >
+          Read more
+        </p>
       </button>
 
       <!-- div -->
