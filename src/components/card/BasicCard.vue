@@ -23,7 +23,7 @@ const props = defineProps({
     <div v-if="label" class="font-normal text-base text-gray-800 dark:text-gray-100">
       <div
         v-if="label && !img"
-        class="font-normal text-base text-gray-800 dark:text-gray-100 flex items-center space-x-1"
+        class="font-normal text-base text-gray-600 dark:text-gray-100 flex items-center space-x-1"
       >
         <svg
           class="w-6 h-6 text-gray-800 dark:text-white"
@@ -46,7 +46,7 @@ const props = defineProps({
       </div>
       <div
         v-else-if="label && img"
-        class="font-normal text-base text-gray-800 dark:text-gray-100"
+        class="font-normal text-base text-gray-600 md:text-gray-100"
       >
         {{ label }}
       </div>

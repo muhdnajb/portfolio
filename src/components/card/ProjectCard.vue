@@ -75,7 +75,7 @@ onMounted(() => {});
     <div class="min-h-[200px] flex flex-col items-center justify-center">
       <a :href="props.link">
         <p
-          class="text-xl font-bold tracking-tight text-black dark:text-white bg-black/80 px-2.5"
+          class="text-xl font-bold tracking-tight text-gray-800 md:text-white bg-black/80 px-2.5"
         >
           {{ props.title }}
         </p>
