@@ -58,7 +58,7 @@ const list = {
       // img: `img/selenium.svg`,
     },
     {
-      label: "Data Analysis",
+      label: "Data Analytics",
       // img: `img/graph.svg`,
     },
     {
